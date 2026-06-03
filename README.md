@@ -6,6 +6,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
