@@ -203,6 +203,7 @@ plt.show()
 ```
 
 #### Grafico Output
+![Screenshot](images/heatmap.png)
 
 ### Spiegazione e Lettura del Grafico
 
@@ -348,6 +349,9 @@ plt.show()
 
 ```
 
+#### Grafico Output
+![Screenshot](images/scree_plot.png)
+
 ### Spiegazione
 
 Lo scree plot mostra visivamente quanta varianza è spiegata da ciascuna componente.
@@ -395,6 +399,9 @@ for k in K:
     inertia.append(model.inertia_)
 
 ```
+
+#### Grafico Output
+![Screenshot](images/elbow_plot.png)
 
 ### Spiegazione
 
@@ -465,6 +472,9 @@ plt.title("Cluster KMeans su PCA")
 plt.show()
 
 ```
+
+#### Grafico Output
+![Screenshot](images/clusters_pca.png)
 
 ### Spiegazione
 
